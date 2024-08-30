@@ -82,7 +82,7 @@ export default function DetailsProduct() {
                 </div>
                 <div className="about ">
                     <h4>About the property</h4>
-                    <p>Large house in a leafy suburb. Generally a quiet house as 
+                    <p>Large house in a leaf suburb. Generally a quiet house as 
                         everyone has a 
                         work life, fitness schedule and social life. The current 
                         flatmates are great friends when they do get
