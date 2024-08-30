@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.box1 img{
+    width: 250px;
+}
+@media(min-width:992px){
+    .box1{
+        width: 50% !important;
+    }
+}
+@media(max-width:992px){
+    .box{
+        flex-direction: column;
+    }
+    .box1{
+        width: 100% !important;
+    }
+    .box1 img{
+        width: 200px;
+    }
+    #box1 ,#box2{
+        padding: 0px 16px !important;
+        min-height: 202px;
+    }
+}

@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+@media(max-width:992px){
+    .contact{
+        text-align: center;
+    }
+}
