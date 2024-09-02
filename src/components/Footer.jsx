@@ -6,7 +6,7 @@ export default function footer() {
     <div className=' row bg-secondary mt-5 p-5  text-white'>
         <div className="logo col-lg-4 col-12">
             <a className='text-decoration-none text-dark fs-1' href="/"> Roomera</a>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+            <p>Lorem, ipsum dolor sit amet consectetu adipisicing elit.
                 Culpa molestias reiciendis est ?</p>
         </div>
         <div className="links col-lg-4 col-12 row ">
