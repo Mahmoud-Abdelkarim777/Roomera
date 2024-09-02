@@ -11,7 +11,7 @@ import { Pagination } from 'swiper/modules';
 
 export default function DetailsProduct() {
     return (
-        <div>
+        <div className = "container">
             <Swiper
                 slidesPerView={3}
                 spaceBetween={10}
